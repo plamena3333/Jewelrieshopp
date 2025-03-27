@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|c:\\users\\adminbest\\documents\\jewelrieshop\\jewelrieshop\\controllers\\jewelriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|solutionrelative:jewelrieshop\\controllers\\jewelriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|c:\\users\\adminbest\\documents\\jewelrieshop\\jewelrieshop\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|solutionrelative:jewelrieshop\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|c:\\users\\adminbest\\documents\\jewelrieshop\\jewelrieshop\\views\\jewelries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|solutionrelative:jewelrieshop\\views\\jewelries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|c:\\users\\adminbest\\documents\\jewelrieshop\\jewelrieshop\\views\\jewelries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|solutionrelative:jewelrieshop\\views\\jewelries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|c:\\users\\adminbest\\documents\\jewelrieshop\\jewelrieshop\\views\\jewelries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|solutionrelative:jewelrieshop\\views\\jewelries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|c:\\users\\adminbest\\documents\\jewelrieshop\\jewelrieshop\\views\\jewelries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|solutionrelative:jewelrieshop\\views\\jewelries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|c:\\users\\adminbest\\documents\\jewelrieshop\\jewelrieshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|solutionrelative:jewelrieshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|c:\\users\\adminbest\\documents\\jewelrieshop\\jewelrieshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A24986A1-8DFD-4B92-AD38-EBB86E646199}|JewelrieShop\\JewelrieShop.csproj|solutionrelative:jewelrieshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 322,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Views\\Jewelries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "JewelrieShop\\Views\\Jewelries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Views\\Jewelries\\Edit.cshtml",
+              "RelativeToolTip": "JewelrieShop\\Views\\Jewelries\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T10:55:52.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Views\\Jewelries\\Details.cshtml",
+              "RelativeDocumentMoniker": "JewelrieShop\\Views\\Jewelries\\Details.cshtml",
+              "ToolTip": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Views\\Jewelries\\Details.cshtml",
+              "RelativeToolTip": "JewelrieShop\\Views\\Jewelries\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T10:25:46.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "JewelrieShop\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Models\\Order.cs",
+              "RelativeToolTip": "JewelrieShop\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:58:19.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "JewelrieShop\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "JewelrieShop\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T09:35:36.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JewelriesController.cs",
+              "DocumentMoniker": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Controllers\\JewelriesController.cs",
+              "RelativeDocumentMoniker": "JewelrieShop\\Controllers\\JewelriesController.cs",
+              "ToolTip": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Controllers\\JewelriesController.cs",
+              "RelativeToolTip": "JewelrieShop\\Controllers\\JewelriesController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:20:15.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Views\\Jewelries\\Create.cshtml",
+              "RelativeDocumentMoniker": "JewelrieShop\\Views\\Jewelries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Views\\Jewelries\\Create.cshtml",
+              "RelativeToolTip": "JewelrieShop\\Views\\Jewelries\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T09:19:21.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Views\\Jewelries\\Index.cshtml",
+              "RelativeDocumentMoniker": "JewelrieShop\\Views\\Jewelries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\Views\\Jewelries\\Index.cshtml",
+              "RelativeToolTip": "JewelrieShop\\Views\\Jewelries\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T08:27:27.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "JewelrieShop\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\adminbest\\Documents\\JewelrieShop\\JewelrieShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "JewelrieShop\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-24T09:01:55.169Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
